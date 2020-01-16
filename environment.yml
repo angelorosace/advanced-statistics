@@ -1,0 +1,9 @@
+name: example-environment
+
+dependencies:
+        - numpy
+        - matplotlib
+        - pandas
+        - scikit-learn
+        - pymc3
+        - seaborn
